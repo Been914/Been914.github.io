@@ -15,4 +15,4 @@
 print("Hello, world!")
 ```
 
-![Alt text](img.jpg)
+(img.jpg)
