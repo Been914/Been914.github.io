@@ -17,4 +17,5 @@
 print("Hello, world!")
 ```
 
-(img.jpg)
+Cat
+![cat picture](img.jpg)
