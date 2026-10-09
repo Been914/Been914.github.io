@@ -10,6 +10,8 @@
 1. Numbered item one
 2. Numbered item two
 
+**bold text** *italics*
+<ins>Underline</ins>
 
 ```python
 print("Hello, world!")
